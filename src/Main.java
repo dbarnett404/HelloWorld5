@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //THis is a comment
+        //This is a comment
         //Outputting Strings
         System.out.println("Hello world!");
         System.out.println(2 + 2);
@@ -23,7 +23,7 @@ public class Main {
         String team = sc.nextLine();
         int score = 0;
         //Use selection to work out the correct answer
-        if (team.equals("Brighton")) {
+        if (team.equals("BHAFC")) {
             System.out.println("Correct!");
             score++;
         } else {
